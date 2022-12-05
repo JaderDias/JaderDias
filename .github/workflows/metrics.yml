@@ -39,4 +39,4 @@ jobs:
           plugin_lines: yes
           plugin_stackoverflow: yes
           plugin_stackoverflow_user: 48465
-          plugin_stackoverflow_sections: []
+          plugin_stackoverflow_sections: ''
