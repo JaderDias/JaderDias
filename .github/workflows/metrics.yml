@@ -26,14 +26,6 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_display: large
           config_timezone: Europe/Amsterdam
-          plugin_languages: yes
-          plugin_languages_analysis_timeout: 60
-          plugin_languages_analysis_timeout_repositories: 15
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
-          plugin_languages_limit: 8
-          plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
           plugin_lines: yes
           plugin_stackoverflow: yes
           plugin_stackoverflow_user: 48465
